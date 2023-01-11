@@ -81,3 +81,61 @@ li a {
     border-radius: 5px;
     background: #FD6E0A;
 }
+
+.about {
+    background-color: bisque;
+    margin-bottom: 200px;
+    padding: 130px 150px;
+    text-align: center;
+}
+
+.about-title {
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 30px;
+
+}
+
+.section-discription {
+    font-size: 20px;
+    color: Blue;
+}
+
+.about-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.info-title {
+    font-size: 25px;
+    color: blueviolet;
+}
+
+.info-discription {
+    font-size: 28px;
+    color: black;
+
+}
+
+.What-do {
+    background-color: azure;
+    align-items: center;
+}
+
+.whatdo-title {
+    font-size: 50px;
+    color: red;
+}
+
+.what-container {
+    display: flex;
+    gap: 25px;
+    padding: 20px 30px;
+}
+
+.what-info {
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgb(0 0 0 / 6%);
+    border-radius: 5px;
+    padding: 30px;
+}
